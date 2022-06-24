@@ -1,0 +1,20 @@
+.message {
+  color: #fff;
+  height: 60px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+#numbersForm {
+  margin: 70px auto; 
+  width: 50%;
+}
+
+.error-message {
+  background-color: #f44336;
+}
+
+.result-message {
+  background-color: #00897b;
+}
